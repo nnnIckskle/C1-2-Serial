@@ -3,7 +3,7 @@ Microcontrolados Taller 2, "4.7.6 Actividad"
 
 Integrantes:
 
-  Jesús Navarro/n
-  Lilia Ospino/n
-  Moisés Del Toro/n
-  Nicol Morales/n
+  -Jesús Navarro
+  -Lilia Ospino
+  -Moisés Del Toro
+  -Nicol Morales
