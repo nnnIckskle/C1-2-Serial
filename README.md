@@ -8,4 +8,4 @@
   - Moisés Del Toro
   - Nicol Morales
 
-### Los codigos se encuentran en las carpetas respectivas de cada punto, dentro de la carpeta src con los nombres "main.c".
+### Los codigos se encuentran en las carpetas respectivas de cada punto, dentro de la carpeta src con los nombres "main.c" o "main.cpp".
